@@ -170,7 +170,7 @@ function Home() {
 
   const stories = [
         { id: 1, username: 'Arjun_kathai', avatar: './images/arjun.jpeg' },
-        { id: 2, username: 'Devi_vaazhkai', avatar: './public/images/devi.jpg' },
+        { id: 2, username: 'Devi_vaazhkai', avatar: './images/devi.jpg' },
         { id: 3, username: 'Murali_paattu', avatar: './public/images/murali.jpeg' },
         { id: 4, username: 'Kalaiarasi_clicks', avatar: './public/images/kalai.jpeg' },
         { id: 5, username: 'Chandra_samayal', avatar: './public/images/chandra.jpeg' },
@@ -244,7 +244,7 @@ function Home() {
         <div className="stories">
           {stories.map((story) => (
             <div className="story" key={story.id}>
-              <img src={story.avatar} alt={story.username} />
+              <img src={story.avatar}  />
               <p>{story.username}</p>
             </div>
           ))}
