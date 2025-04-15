@@ -169,7 +169,7 @@ function Home() {
   ];
 
   const stories = [
-        { id: 1, username: 'Arjun_kathai', avatar: '../images/arjun.jpeg' },
+        { id: 1, username: 'Arjun_kathai', avatar: 'instagram/public/followers/arjun.jpeg' },
         { id: 2, username: 'Devi_vaazhkai', avatar: '../images/devi.jpg' },
         { id: 3, username: 'Murali_paattu', avatar: '../images/murali.jpeg' },
         { id: 4, username: 'Kalaiarasi_clicks', avatar: '../images/kalai.jpeg' },
