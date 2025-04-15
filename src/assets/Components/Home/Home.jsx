@@ -169,21 +169,21 @@ function Home() {
   ];
 
   const stories = [
-        { id: 1, username: 'Arjun_kathai', avatar: '../public/images/arjun.jpeg' },
-        { id: 2, username: 'Devi_vaazhkai', avatar: '../images/devi.jpg' },
-        { id: 3, username: 'Murali_paattu', avatar: '../images/murali.jpeg' },
-        { id: 4, username: 'Kalaiarasi_clicks', avatar: '../images/kalai.jpeg' },
-        { id: 5, username: 'Chandra_samayal', avatar: '../images/chandra.jpeg' },
-        { id: 6, username: 'Vikram_videos', avatar: '../images/vikram.jpeg' },
-        { id: 7, username: 'Poovizhi_beauty', avatar: '../images/poovizhi.jpeg' },
-        { id: 8, username: 'Thamarai_dreams', avatar: '../images/thamarai.jpeg' },
-        { id: 9, username: 'Krishna_funny', avatar: '../images/krishna.jpeg' },
-        { id: 10, username: 'Mala_memories', avatar: '../images/mala.jpeg' },
-        { id: 11, username: 'Ramesh_travel', avatar: '../images/ramesh.jpeg' },
-        { id: 12, username: 'Vasanthi_path', avatar: '../images/vasanthi.jpeg' },
-        { id: 13, username: 'Durai_daily', avatar: '../images/durai.jpeg' },
-        { id: 14, username: 'Sneha_songs', avatar: '../images/sneha.jpeg' },
-        { id: 15, username: 'Yamini_life', avatar: '../images/yamini.jpeg' },
+        { id: 1, username: 'Arjun_kathai', avatar: './public/images/arjun.jpeg' },
+        { id: 2, username: 'Devi_vaazhkai', avatar: './public/images/devi.jpg' },
+        { id: 3, username: 'Murali_paattu', avatar: './public/images/murali.jpeg' },
+        { id: 4, username: 'Kalaiarasi_clicks', avatar: './public/images/kalai.jpeg' },
+        { id: 5, username: 'Chandra_samayal', avatar: './public/images/chandra.jpeg' },
+        { id: 6, username: 'Vikram_videos', avatar: './public/images/vikram.jpeg' },
+        { id: 7, username: 'Poovizhi_beauty', avatar: './public/images/poovizhi.jpeg' },
+        { id: 8, username: 'Thamarai_dreams', avatar: './public/images/thamarai.jpeg' },
+        { id: 9, username: 'Krishna_funny', avatar: './public/images/krishna.jpeg' },
+        { id: 10, username: 'Mala_memories', avatar: './public/images/mala.jpeg' },
+        { id: 11, username: 'Ramesh_travel', avatar: './public/images/ramesh.jpeg' },
+        { id: 12, username: 'Vasanthi_path', avatar: './public/images/vasanthi.jpeg' },
+        { id: 13, username: 'Durai_daily', avatar: './public/images/durai.jpeg' },
+        { id: 14, username: 'Sneha_songs', avatar: './public/images/sneha.jpeg' },
+        { id: 15, username: 'Yamini_life', avatar: './public/images/yamini.jpeg' },
       
   ];
 
