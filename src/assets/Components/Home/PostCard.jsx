@@ -31,6 +31,7 @@ function PostCard({ post, index, setVideoRef, onPlay }) {
       <div className="post-actions">❤️ 💬 📤</div>
       <div className="caption">
         <strong>{post.username}</strong> {post.caption}
+        
       </div>
     </div>
     
