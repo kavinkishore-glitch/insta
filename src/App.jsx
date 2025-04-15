@@ -7,7 +7,7 @@ import Signup from './assets/Components/Signup/Signup';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/insta">
       <Routes>
         <Route path="/" element={<Navigate to="/signup" />} />
         <Route path="/login" element={<Login />} />
